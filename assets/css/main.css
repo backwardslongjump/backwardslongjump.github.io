@@ -1324,9 +1324,10 @@ input, select, textarea {
 			display: flex;
 			margin-bottom: 0;
 			list-style: none;
-			border: solid 1px #ffffff;
 			padding: 0;
 			border: solid 3px #ffffff;
+			border-radius: 10px;
+			
 		}
 
 			#header nav ul li {
